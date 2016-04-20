@@ -1,0 +1,118 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<title>20 VIC Management Inc.</title>
+<style type="text/css">
+<!--
+body {
+	background-color: #E3E3D3;
+	margin-left: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+}
+-->
+</style>
+<script language="JavaScript" type="text/JavaScript">
+<!--
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+//-->
+
+</script>
+<link href="20vic_styles.css" rel="stylesheet" type="text/css" />
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-30739-18");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+</head>
+
+<body onload="MM_preloadImages('in_imgs/2v_retail_ovr.jpg','in_imgs/2v_office_ovr.jpg','in_imgs/2v_indust_ovr.jpg','in_imgs/2v_develop_ovr.jpg','in_imgs/2v_career_ovr.jpg')">
+<table width="760" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr>
+    <td><img src="in_imgs/spacer.jpg" width="1" height="40" /></td>
+  </tr>
+</table>
+
+<table width="760" height="72" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr>
+    <td width="230" rowspan="2"><a href="index.html"><img src="in_imgs/2v_logo.jpg" width="230" height="72" border="0" /></a></td>
+    <td colspan="6"><img src="in_imgs/spacer.jpg" width="530" height="46" /></td>
+  </tr>
+  <tr>
+    <td width="188"><img src="in_imgs/spacer.jpg" width="188" height="26" /></td>
+    <td width="55"><a href="retail.html" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('retail','','in_imgs/2v_retail_ovr.jpg',1)"><img src="in_imgs/2v_retail.jpg" alt="retail" name="retail" width="55" height="26" border="0" id="retail" /></a></td>
+    <td width="53"><a href="office.html" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('office','','in_imgs/2v_office_ovr.jpg',1)"><img src="in_imgs/2v_office.jpg" alt="office" name="office" width="53" height="26" border="0" id="office" /></a></td>
+    <td width="76"><a href="indust.html" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('industrial','','in_imgs/2v_indust_ovr.jpg',1)"><img src="in_imgs/2v_indust.jpg" alt="industrial" name="industrial" width="76" height="26" border="0" id="industrial" /></a></td>
+    <td width="91"><a href="develop.html" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('development','','in_imgs/2v_develop_ovr.jpg',1)"><img src="in_imgs/2v_develop.jpg" alt="development" name="development" width="91" height="26" border="0" id="development" /></a></td>
+    <td width="67"><a href="career.html" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('careers','','in_imgs/2v_career_ovr.jpg',1)"><img src="in_imgs/2v_career.jpg" alt="careers" name="careers" width="67" height="26" border="0" id="careers" /></a></td>
+  </tr>
+</table>
+
+<table width="760" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr>
+    <td><img src="in_imgs/2v_hptopline.jpg" width="760" height="39" /></td>
+  </tr>
+</table>
+<table width="760" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr>
+    <td width="18" height="252" rowspan="3"><img src="in_imgs/2v_lftsde.jpg" width="18" height="252" /></td>
+    <td height="16" colspan="3"><img src="in_imgs/2v_topsde.jpg" width="212" height="16" /></td>
+    <td width="531" rowspan="3">
+    <!--
+    <object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,29,0" width="531" height="252">
+      <param name="movie" value="in_imgs/061121_20vic_hpfla.swf" />
+      <param name="quality" value="high" />
+      <embed src="in_imgs/061121_20vic_hpfla.swf" quality="high" pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" width="531" height="252"></embed>
+    </object>
+    -->
+    
+    <img src="imgs/1403_hp-1.jpg" alt="" />
+    
+    </td>
+  </tr>
+  <tr>
+    <td width="12" height="220" align="left" valign="top" bgcolor="#F8F8EC">&nbsp;</td>
+    <td width="181" align="left" valign="top" bgcolor="#F8F8EC"><p class="deftxt"><img src="in_imgs/abtus_hdr.jpg" width="72" height="10" vspace="3" /><br />20 VIC Management Inc.
+manages a national portfolio of retail, office and industrial
+properties. Our seasoned team of specialists have the detailed expertise and are committed to creating value for our stakeholders.</p></td>
+    <td width="19" align="left" valign="top" bgcolor="#F8F8EC">&nbsp;</td>
+  </tr>
+  <tr>
+    <td height="16" colspan="3"><img src="in_imgs/2v_botmsde.jpg" width="212" height="16" /></td>
+  </tr>
+</table>
+<table width="760" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr>
+    <td><img src="in_imgs/2v_hpftr.jpg" width="760" height="41" /></td>
+  </tr>
+</table>
+</body>
+</html>
